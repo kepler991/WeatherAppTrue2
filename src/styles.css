@@ -1,9 +1,9 @@
 body {
-  font-family: arial, sans-serif;
+  font-family: "Times New Roman", serif;
 }
 
 h1 {
-  color: #878787;
+  color: #ffd9da;
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
@@ -78,7 +78,7 @@ li:first-letter {
 }
 
 .weather-forecast h3 {
-  color: rgb(186, 186, 186);
+  color: #ffd9da;
   font-size: 14px;
   font-weight: 400;
   text-align: center;
